@@ -5,7 +5,7 @@
 </head>
 <body>
 <header>
-    <h1># team_hustle_squad</h1>
+    
     <h2>Project Proposal</h2>
 </header>
 
